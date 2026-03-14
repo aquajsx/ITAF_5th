@@ -36,7 +36,7 @@ const data = {
         subtitle: '資訊科技審計專業實踐核心框架',
         description:
           '本框架為從業人員提供強制性標準 (Standards)、推薦性指南 (Guidelines) 與輔助工具 (Tools and Techniques)，確保審計工作的品質、客觀性與一致性。',
-        downloadLink: 'http://sss',
+        downloadLink: 'https://drive.google.com/file/d/1kNpGvKysyF2HyXjgozRiKB-H7_C7e17o/view?usp=drive_link',
         accentColor: 'bg-blue-600',
         lightColor: 'bg-blue-50',
         textColor: 'text-blue-600',
@@ -420,7 +420,7 @@ const data = {
         subtitle: '資訊科技審計抽樣 (IT Audit Sampling)',
         description:
           '專門針對 ITAF™ 框架中「審計抽樣」環節編寫的配套操作指南，指導在無法進行 100% 測試時，如何科學地設計、選取及評估樣本。',
-        downloadLink: 'http://bbb',
+        downloadLink: 'https://drive.google.com/file/d/1kNpGvKysyF2HyXjgozRiKB-H7_C7e17o/view?usp=drive_link',
         accentColor: 'bg-indigo-600',
         lightColor: 'bg-indigo-50',
         textColor: 'text-indigo-600',
@@ -513,7 +513,7 @@ const data = {
         },
       },
     ],
-    downloadText: '下載文檔資源',
+    downloadText: '下載文檔',
     exampleSectionTitle: '典型指南示例',
     exampleSectionDesc:
       '請將滑鼠懸停在深色的標籤上，查看其在文檔原文中所對應的具體內容。這種結構化設計有助於審計人員快速定位核心要求與操作指南。',
@@ -542,7 +542,7 @@ const data = {
         subtitle: 'Core Framework for IT Audit Professional Practices',
         description:
           'This framework provides practitioners with mandatory Standards, recommended Guidelines, and auxiliary Tools and Techniques to ensure the quality, objectivity, and consistency of audit work.',
-        downloadLink: 'http://sss',
+        downloadLink: 'https://drive.google.com/file/d/1kNpGvKysyF2HyXjgozRiKB-H7_C7e17o/view?usp=drive_link',
         accentColor: 'bg-blue-600',
         lightColor: 'bg-blue-50',
         textColor: 'text-blue-600',
@@ -1114,7 +1114,7 @@ const data = {
         subtitle: 'Information Technology Audit Sampling',
         description:
           "A companion operational guide specifically addressing the 'Audit Sampling' phase within the ITAF™ framework, providing guidance on scientifically designing, selecting, and evaluating samples when 100% testing is unfeasible.",
-        downloadLink: 'http://bbb',
+        downloadLink: 'https://drive.google.com/file/d/1mBh5XfdYDOpJKNyU0VzopKc3nhhJcodB/view?usp=drive_link',
         accentColor: 'bg-indigo-600',
         lightColor: 'bg-indigo-50',
         textColor: 'text-indigo-600',
